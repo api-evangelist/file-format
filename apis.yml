@@ -1,13 +1,21 @@
+aid: file-format
 name: File Format
 description: File Format is a specialized technology or methodology in the file domain
   that addresses specific technical or business requirements. It provides targeted
   capabilities that help practitioners and organizations solve problems and improve
   outcomes in their area of focus.
-url: null
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/file-format/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 tags:
-- File Format
-- File Formats
-created: '2025'
-modified: '2025'
+  - File Format
+  - File Formats
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
