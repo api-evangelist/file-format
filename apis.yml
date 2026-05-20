@@ -25,6 +25,8 @@ tags:
   - Interoperability
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/FileFormatInfo
   - type: Reference
     name: Wikipedia - File Format
     url: https://en.wikipedia.org/wiki/File_format
