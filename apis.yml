@@ -9,7 +9,7 @@ description: >-
   interoperability, identified via filename extensions, magic numbers, MIME
   types, and IANA media-type registrations.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/file-format/refs/heads/main/apis.yml
 created: '2025-01-01'
