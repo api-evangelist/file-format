@@ -39,6 +39,13 @@ modified: '2026-04-28'
 specificationVersion: '0.23'
 tags:
   - File Format
+  - Media Types
+  - MIME Types
+  - Encoding
+  - Serialization
+  - Interoperability
+tags_raw:
+  - File Format
   - File Formats
   - Media Types
   - MIME Types
